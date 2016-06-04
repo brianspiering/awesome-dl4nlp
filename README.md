@@ -4,8 +4,6 @@ Awesome Deep Learning for Natural Language Processing[![Awesome](https://cdn.raw
 Table of Contents
 ----
 
-- __[Free Online Books](#free-online-books)__  
-
 - __[Courses](#courses)__  
 
 - __[Videos and Lectures](#videos-and-lectures)__  
@@ -14,9 +12,9 @@ Table of Contents
 
 - __[Tutorials](#tutorials)__  
 
-- __[Researchers](#researchers)__  
+- __[WebSites](#websites)__ 
 
-- __[WebSites](#websites)__  
+- __[Researchers](#researchers)__  
 
 - __[Datasets](#datasets)__  
 
@@ -26,3 +24,36 @@ Table of Contents
 
 - __[Contributing](#contributing)__  
 
+Courses
+----
+
+Videos and Lectures
+----
+
+Papers
+----
+
+Tutorials
+----
+
+WebSites
+----
+
+Researchers
+----
+
+Datasets
+----
+
+-----
+Contributing
+----
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request!
+
+-----
+License
+----
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Brian Spiering](http://www.linkedin.com/in/brianspiering/) has waived all copyright and related or neighboring rights to this work.
