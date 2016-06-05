@@ -1,4 +1,4 @@
-Awesome Deep Learning for Natural Language Processing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
 Table of Contents
@@ -32,9 +32,9 @@ Videos and Lectures
 
 Papers
 ----
-1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915)
+1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP
 2. [Distributed Representations of Words and Phrases
-and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The orginal word2vec paper
 
 Tutorials
 ----
@@ -44,11 +44,14 @@ Tutorials
 
 Frameworks
 ----
-1. [Topic modelling for humans](https://pypi.python.org/pypi/gensim) Includes word2vec and doc2vec implementations.
+1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
+2. [Topic modelling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
 
 Researchers
 ----
-1. [Ali Ghodsi](https://uwaterloo.ca/data-science/)
+1. [Christopher Manning](http://nlp.stanford.edu/manning/)
+2. [Ali Ghodsi](https://uwaterloo.ca/data-science/)
+
 
 Datasets
 ----
