@@ -29,18 +29,19 @@ Courses
 Videos and Lectures
 ----
 1. [Ali Ghodsi's lecture on word2vec, part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA); [Ali Ghodsi's lecture on word2vec, part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
+2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 
 Papers
 ----
 1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP
-2. [Distributed Representations of Words and Phrases
-and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
+2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
 
 Tutorials
 ----
-1. [Deep Learning for Natural Language Processing (without Magic)](http://nlp.stanford.edu/courses/NAACL2013/)
+1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
-3. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
+4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 
 Frameworks
 ----
@@ -52,7 +53,7 @@ Researchers
 ----
 1. [Christopher Manning](http://nlp.stanford.edu/manning/)
 2. [Ali Ghodsi](https://uwaterloo.ca/data-science/)
-
+3. [Richard Socher](http://www.socher.org/)
 
 Datasets
 ----
