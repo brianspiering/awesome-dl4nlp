@@ -59,6 +59,11 @@ Datasets
 ----
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) Almost 1B words, already pre-processed text.
 
+----
+Miscellaneous
+----
+1. [word2vec analogy demo](http://deeplearner.fz-qqq.net/)
+
 -----
 Contributing
 ----
