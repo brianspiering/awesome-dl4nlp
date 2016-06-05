@@ -34,7 +34,7 @@ Papers
 ----
 1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP
 2. [Distributed Representations of Words and Phrases
-and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The orginal word2vec paper
+and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
 
 Tutorials
 ----
@@ -45,7 +45,8 @@ Tutorials
 Frameworks
 ----
 1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
-2. [Topic modelling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
+2. [Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
+3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 
 Researchers
 ----
@@ -68,4 +69,4 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Brian Spiering](http://www.linkedin.com/in/brianspiering/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Dr. Brian J. Spiering](http://www.linkedin.com/in/brianspiering/) has waived all copyright and related or neighboring rights to this work.
