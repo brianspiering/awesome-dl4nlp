@@ -35,6 +35,8 @@ Papers
 ----
 1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP
 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
+3. [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
+4. [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 
 Tutorials
 ----
