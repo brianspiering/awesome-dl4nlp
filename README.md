@@ -41,6 +41,7 @@ Papers
 6. [Translation Modeling with Bidirectional Recurrent Neural Networks](https://www-i6.informatik.rwth-aachen.de/publications/download/936/SundermeyerMartinAlkhouliTamerWuebkerJoernNeyHermann--TranslationModelingwithBidirectionalRecurrentNeuralNetworks--2014.pdf)
 7. [Contextual LSTM (CLSTM) models for Large scale NLP tasks](https://arxiv.org/abs/1602.06291)
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
+9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
 
 Tutorials
 ----
