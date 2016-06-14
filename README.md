@@ -42,6 +42,7 @@ Papers
 7. [Contextual LSTM (CLSTM) models for Large scale NLP tasks](https://arxiv.org/abs/1602.06291)
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
 9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
+10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in converstations
 
 Tutorials
 ----
@@ -66,7 +67,6 @@ Datasets
 ----
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) Almost 1B words, already pre-processed text.
 
-----
 Miscellaneous
 ----
 1. [word2vec analogy demo](http://deeplearner.fz-qqq.net/)
