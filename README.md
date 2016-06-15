@@ -10,6 +10,8 @@ Table of Contents
 
 - __[Papers](#papers)__  
 
+- __[Blog Posts](#blog-posts)
+
 - __[Tutorials](#tutorials)__  
 
 - __[Frameworks](#frameworks)__  
@@ -43,6 +45,11 @@ Papers
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
 9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
 10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in converstations
+
+Blog Posts
+----
+1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+2. http://getdango.com/emoji-and-deep-learning.html
 
 Tutorials
 ----
