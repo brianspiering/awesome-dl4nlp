@@ -10,7 +10,7 @@ Table of Contents
 
 - __[Papers](#papers)__  
 
-- __[Blog Posts](#blog-posts)
+- __[Blog Posts](#blog-posts)__
 
 - __[Tutorials](#tutorials)__  
 
@@ -45,11 +45,18 @@ Papers
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
 9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
 10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in converstations
+11. [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+12. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
+13. [Learning Character-level Representations for Part-of-Speech Tagging](http://jmlr.org/proceedings/papers/v32/santos14.pdf)
+14. [Representation Learning for Text-level Discourse Parsing](http://www.cc.gatech.edu/~jeisenst/papers/ji-acl-2014.pdf)
+15. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
+16. [Parsing With Compositional Vector Grammars](http://www.socher.org/index.php/Main/ParsingWithCompositionalVectorGrammars)
 
 Blog Posts
 ----
 1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-2. http://getdango.com/emoji-and-deep-learning.html
+2. http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji
+3. http://getdango.com/emoji-and-deep-learning.html
 
 Tutorials
 ----
