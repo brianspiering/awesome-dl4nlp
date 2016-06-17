@@ -51,6 +51,7 @@ Papers
 14. [Representation Learning for Text-level Discourse Parsing](http://www.cc.gatech.edu/~jeisenst/papers/ji-acl-2014.pdf)
 15. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
 16. [Parsing With Compositional Vector Grammars](http://www.socher.org/index.php/Main/ParsingWithCompositionalVectorGrammars)
+17. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
 
 Blog Posts
 ----
