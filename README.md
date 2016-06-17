@@ -12,7 +12,7 @@ Table of Contents
 
 - __[Blog Posts](#blog-posts)__
 
-- __[Tutorials](#tutorials)__  
+- __[Tutorials / Demos](#tutorials)__  
 
 - __[Frameworks](#frameworks)__  
 
@@ -65,6 +65,7 @@ Tutorials
 2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
 3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
 
 Frameworks
 ----
