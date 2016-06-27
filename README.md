@@ -66,6 +66,7 @@ Tutorials
 3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
+6. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
 
 Frameworks
 ----
