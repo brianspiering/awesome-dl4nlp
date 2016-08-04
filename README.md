@@ -52,6 +52,8 @@ Papers
 15. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
 16. [Parsing With Compositional Vector Grammars](http://www.socher.org/index.php/Main/ParsingWithCompositionalVectorGrammars)
 17. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
+18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional
+random layer and transition-based parsing with stack LSTMs.
 
 Blog Posts
 ----
