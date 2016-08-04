@@ -55,6 +55,7 @@ Papers
 18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional
 random layer and transition-based parsing with stack LSTMs.
 19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
+20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach
 
 Blog Posts
 ----
