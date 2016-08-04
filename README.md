@@ -54,6 +54,7 @@ Papers
 17. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
 18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional
 random layer and transition-based parsing with stack LSTMs.
+19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
 
 Blog Posts
 ----
