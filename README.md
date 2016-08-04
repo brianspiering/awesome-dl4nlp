@@ -52,16 +52,17 @@ Papers
 15. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
 16. [Parsing With Compositional Vector Grammars](http://www.socher.org/index.php/Main/ParsingWithCompositionalVectorGrammars)
 17. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
-18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional
-random layer and transition-based parsing with stack LSTMs.
+18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
 19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
 20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach
 
 Blog Posts
 ----
-1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-2. http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji
-3. http://getdango.com/emoji-and-deep-learning.html
+1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+3. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
+4. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
+5. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) Opinion piece on how Deep Learning fits into the broader picture of text processing
 
 Tutorials
 ----
