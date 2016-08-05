@@ -34,8 +34,9 @@ Tutorials
 2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
 3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
-5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
-6. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
+5. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
+6. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
+7. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
 
 Talks
 ----
@@ -78,7 +79,6 @@ Blog Posts
 3. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
 4. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
 5. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) Opinion piece on how Deep Learning fits into the broader picture of text processing
-
 
 Researchers
 ----
