@@ -8,7 +8,7 @@ Table of Contents
 
 - __[Tutorials / Demos](#tutorials)__  
 
-- __[Lectures & Talks](#Lectures-&-Talks)__  
+- __[Lectures & Talks](#lectures-&-talks)__  
 
 - __[Frameworks](#frameworks)__  
 
