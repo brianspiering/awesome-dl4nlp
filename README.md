@@ -46,8 +46,9 @@ Talks
 Frameworks
 ----
 1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
-2. [Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
+2. [Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations
 3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
+4. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) Java implementation
 
 Papers
 ----
