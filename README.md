@@ -6,15 +6,15 @@ Table of Contents
 
 - __[Courses](#courses)__  
 
-- __[Videos and Lectures](#videos-and-lectures)__  
+- __[Tutorials / Demos](#tutorials)__  
+
+- __[Lectures & Talks](#Lectures-&-Talks)__  
+
+- __[Frameworks](#frameworks)__  
 
 - __[Papers](#papers)__  
 
 - __[Blog Posts](#blog-posts)__
-
-- __[Tutorials / Demos](#tutorials)__  
-
-- __[Frameworks](#frameworks)__  
 
 - __[Researchers](#researchers)__  
 
@@ -28,10 +28,25 @@ Courses
 ----
 1. [CS224d: Deep Learning for Natural Language Processing from Stanford](http://cs224d.stanford.edu/)
 
-Videos and Lectures
+Tutorials
+----
+1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
+2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
+3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
+4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
+6. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
+
+Lectures & Talks
 ----
 1. [Ali Ghodsi's lecture on word2vec, part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA); [Ali Ghodsi's lecture on word2vec, part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
+
+Frameworks
+----
+1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
+2. [Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
+3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 
 Papers
 ----
@@ -64,20 +79,6 @@ Blog Posts
 4. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
 5. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) Opinion piece on how Deep Learning fits into the broader picture of text processing
 
-Tutorials
-----
-1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
-3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
-4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
-5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
-6. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
-
-Frameworks
-----
-1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
-2. [Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations.
-3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 
 Researchers
 ----
