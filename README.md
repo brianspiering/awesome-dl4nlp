@@ -85,6 +85,7 @@ Researchers
 1. [Christopher Manning](http://nlp.stanford.edu/manning/)
 2. [Ali Ghodsi](https://uwaterloo.ca/data-science/)
 3. [Richard Socher](http://www.socher.org/)
+4. [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
 Datasets
 ----
