@@ -8,7 +8,7 @@ Table of Contents
 
 - __[Tutorials / Demos](#tutorials)__  
 
-- __[Lectures & Talks](#lectures-&-talks)__  
+- __[Talks / Lectures](#talks)__  
 
 - __[Frameworks](#frameworks)__  
 
@@ -37,7 +37,7 @@ Tutorials
 5. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
 6. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
 
-Lectures & Talks
+Talks
 ----
 1. [Ali Ghodsi's lecture on word2vec, part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA); [Ali Ghodsi's lecture on word2vec, part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
