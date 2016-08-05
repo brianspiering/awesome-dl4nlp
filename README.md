@@ -42,6 +42,7 @@ Talks
 ----
 1. [Ali Ghodsi's lecture on word2vec, part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA); [Ali Ghodsi's lecture on word2vec, part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
+3. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
 
 Frameworks
 ----
