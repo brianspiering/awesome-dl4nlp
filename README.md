@@ -51,6 +51,7 @@ Frameworks
 2. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations
 3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 4. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) Java implementation
+5. [deepnl](https://github.com/attardi/deepnl) a Python library for NLP based on Deep Learning neural network architecture
 
 Papers
 ----
