@@ -31,12 +31,13 @@ Courses
 Tutorials
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-2. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
-3. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
-4. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
-5. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
-6. [Tensorflow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
-7. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
+2. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) 
+3. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
+4. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
+5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
+6. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+7. [TensorFlow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
+8. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
 
 Talks
 ----
@@ -62,7 +63,7 @@ Papers
 7. [Contextual LSTM (CLSTM) models for Large scale NLP tasks](https://arxiv.org/abs/1602.06291)
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
 9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
-10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in converstations
+10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in conversations
 11. [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 12. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
 13. [Learning Character-level Representations for Part-of-Speech Tagging](http://jmlr.org/proceedings/papers/v32/santos14.pdf)
@@ -73,6 +74,7 @@ Papers
 18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
 19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
 20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach
+21. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) Not all Deep Learning but mostly
 
 Blog Posts
 ----
