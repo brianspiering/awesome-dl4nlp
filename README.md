@@ -55,7 +55,8 @@ Frameworks
 
 Papers
 ----
-1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP
+1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP 
+2. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) Not all Deep Learning (but mostly Deep Learning)
 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
 3. [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
 4. [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
@@ -75,7 +76,10 @@ Papers
 18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
 19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
 20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach
-21. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) Not all Deep Learning but mostly
+22. Skip-Thought Vectors - "unsupervised learning of a generic, distributed sentence encoder"
+    - [Paper](http://arxiv.org/abs/1506.06726)
+    - [Code](https://github.com/ryankiros/skip-thoughts)
+
 
 Blog Posts
 ----
