@@ -37,13 +37,14 @@ Tutorials
 5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 6. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 7. [TensorFlow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
-8. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
+8. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
 
 Talks
 ----
 1. Ali Ghodsi's lecture on word2vec [part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA) and [part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 3. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
+4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) from [Deep Learning Summer School, Montreal 2016]http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling
 
 Frameworks
 ----
