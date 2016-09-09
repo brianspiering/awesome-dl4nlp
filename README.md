@@ -17,7 +17,7 @@ Contents
 
 Courses
 ----
-1. [CS224d: Deep Learning for Natural Language Processing from Stanford](http://cs224d.stanford.edu/)
+1. [CS224d: Deep Learning for Natural Language Processing from Stanford](http://cs224d.stanford.edu/) - A complete survey of the field with videos, lecture slides, and sample student projects.
 
 Tutorials
 ----
