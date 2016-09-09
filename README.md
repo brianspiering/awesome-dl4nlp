@@ -35,21 +35,21 @@ Talks
 1. Ali Ghodsi's lecture on word2vec [part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA) and [part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 3. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
-4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) from [Deep Learning Summer School, Montreal 2016]http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling
+4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) - From [Deep Learning Summer School, Montreal 2016]http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
 
 Frameworks
 ----
-1. [TensorFlow](https://www.tensorflow.org/) A cross-platform, general purpose Deep Learning library with Python and C++ API
-2. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) A Python package that includes word2vec and doc2vec implementations
+1. [TensorFlow](https://www.tensorflow.org/) - A cross-platform, general purpose Deep Learning library with Python and C++ API.
+2. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
 3. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
-4. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) Java implementation
-5. [deepnl](https://github.com/attardi/deepnl) a Python library for NLP based on Deep Learning neural network architecture
+4. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
+5. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
 
 Papers
 ----
-1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) General overview of how Deep Learning is impacting NLP 
-2. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) Not all Deep Learning (but mostly Deep Learning)
-2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) The original word2vec paper
+1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) - General overview of how Deep Learning is impacting NLP.
+2. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) - Not all Deep Learning (but mostly).
+2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - The original word2vec paper.
 3. [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
 4. [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 5. [Context Dependent Recurrent Neural Network Language Model](http://www.msr-waypoint.com/pubs/176926/rnn_ctxt.pdf)
@@ -57,7 +57,7 @@ Papers
 7. [Contextual LSTM (CLSTM) models for Large scale NLP tasks](https://arxiv.org/abs/1602.06291)
 8. [LSTM Neural Networks for Language Modeling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.248.4448&rep=rep1&type=pdf)
 9. [Exploring the Limits of Language Modeling](http://arxiv.org/pdf/1602.02410.pdf)
-10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) Models context and participants in conversations
+10. [Conversational Contextual Cues](https://arxiv.org/abs/1606.00372) - Models context and participants in conversations.
 11. [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 12. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
 13. [Learning Character-level Representations for Part-of-Speech Tagging](http://jmlr.org/proceedings/papers/v32/santos14.pdf)
@@ -65,9 +65,9 @@ Papers
 15. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](http://acl2014.org/acl2014/P14-1/pdf/P14-1129.pdf)
 16. [Parsing With Compositional Vector Grammars](http://www.socher.org/index.php/Main/ParsingWithCompositionalVectorGrammars)
 17. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
-18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) state-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
-19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) a "count-based"/co-occurrence model to learn word embeddings
-20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach
+18. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) - State-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
+19. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) - A "count-based"/co-occurrence model to learn word embeddings.
+20. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) - State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach.
 22. Skip-Thought Vectors - "unsupervised learning of a generic, distributed sentence encoder"
     - [Paper](http://arxiv.org/abs/1506.06726)
     - [Code](https://github.com/ryankiros/skip-thoughts)
@@ -79,7 +79,7 @@ Blog Posts
 2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 3. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
 4. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
-5. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) Opinion piece on how Deep Learning fits into the broader picture of text processing
+5. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) - Opinion piece on how Deep Learning fits into the broader picture of text processing.
 
 Researchers
 ----
@@ -90,7 +90,7 @@ Researchers
 
 Datasets
 ----
-1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) Almost 1B words, already pre-processed text.
+1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) - Almost 1B words, already pre-processed text.
 
 Miscellaneous
 ----
