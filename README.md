@@ -1,27 +1,18 @@
 Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
-Table of Contents
+Contents
 ----
 
 - __[Courses](#courses)__  
-
 - __[Tutorials / Demos](#tutorials)__  
-
 - __[Talks / Lectures](#talks)__  
-
 - __[Frameworks](#frameworks)__  
-
 - __[Papers](#papers)__  
-
 - __[Blog Posts](#blog-posts)__
-
 - __[Researchers](#researchers)__  
-
 - __[Datasets](#datasets)__  
-
 - __[Miscellaneous](#miscellaneous)__  
-
 - __[Contributing](#contributing)__  
 
 Courses
