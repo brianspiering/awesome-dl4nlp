@@ -18,8 +18,8 @@ Contents
 Courses
 ----
 1. CS224d: Deep Learning for Natural Language Processing from Stanford
-	- [Course homepage](http://web.stanford.edu/class/cs224n/) - A complete survey of the field with videos, lecture slides, and sample student projects.
-	- [Course Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Playlist of videos
+	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
+	- [Course Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Video playlist.
 	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
 
 Tutorials
@@ -30,7 +30,7 @@ Tutorials
 4. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
 5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 6. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
-7. [TensorFlow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
+7. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 8. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
 
 Talks
