@@ -17,14 +17,17 @@ Contents
 
 Courses
 ----
-1. [CS224d: Deep Learning for Natural Language Processing from Stanford](http://cs224d.stanford.edu/) - A complete survey of the field with videos, lecture slides, and sample student projects.
+1. CS224d: Deep Learning for Natural Language Processing from Stanford
+	- [Course homepage](http://web.stanford.edu/class/cs224n/) - A complete survey of the field with videos, lecture slides, and sample student projects.
+	- [Course Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Playlist of videos
+	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
 
 Tutorials
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 2. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) 
 3. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
-4. [Vector Representations of Words - TensorFlow](https://www.tensorflow.org/versions/r0.8/tutorials/word2vec/index.html)
+4. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
 5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 6. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 7. [TensorFlow demo using the Large Movie Review Dataset] (http://ai.stanford.edu/~amaas/data/sentiment/)
@@ -35,7 +38,8 @@ Talks
 1. Ali Ghodsi's lecture on word2vec [part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA) and [part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 3. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
-4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) - From [Deep Learning Summer School, Montreal 2016]http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
+4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) 
+5. [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
 
 Frameworks
 ----
