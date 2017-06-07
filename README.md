@@ -4,7 +4,7 @@ Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://
 Contents
 ----
 
-- __[Courses](#courses)__  
+- __[Courses & Books](#courses)__  
 - __[Tutorials / Demos](#tutorials)__  
 - __[Talks / Lectures](#talks)__  
 - __[Frameworks](#frameworks)__  
@@ -15,17 +15,18 @@ Contents
 - __[Miscellaneous](#miscellaneous)__  
 - __[Contributing](#contributing)__  
 
-Courses
+Courses & Books
 ----
 1. CS224d: Deep Learning for Natural Language Processing from Stanford
 	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
 	- [Course Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Video playlist.
 	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
+2. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg & Graeme Hirst
 
 Tutorials
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-2. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) 
+2. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
 3. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
 4. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
 5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
