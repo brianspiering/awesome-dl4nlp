@@ -39,7 +39,7 @@ Tutorials
 1. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
 1. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
 1. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
-1. [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples) from t EMNLP 2016 using DyNet framework
+1. [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples) from EMNLP 2016 using DyNet framework
 1. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 1. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 1. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
