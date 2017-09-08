@@ -4,7 +4,8 @@ Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://
 Contents
 ----
 
-- __[Courses & Books](#courses)__  
+- __[Courses ](#courses)__  
+- __[Books](#books)__  
 - __[Tutorials / Demos](#tutorials)__  
 - __[Talks / Lectures](#talks)__  
 - __[Frameworks](#frameworks)__  
@@ -15,13 +16,22 @@ Contents
 - __[Miscellaneous](#miscellaneous)__  
 - __[Contributing](#contributing)__  
 
-Courses & Books
+Courses 
 ----
 1. CS224d: Deep Learning for Natural Language Processing from Stanford
 	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
 	- [Course Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Video playlist.
 	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
-2. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg & Graeme Hirst
+1. Neural Networks for NLP from Carnegie Mellon University
+	- [Coures homepage](http://phontron.com/class/nn4nlp2017/)
+	- [Course Lectures](https://www.youtube.com/user/neubig/videos)
+	- [Course code](https://github.com/neubig/nn4nlp2017-code/)
+
+Books
+-----
+1. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg and Graeme Hirst
+2. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Dang Liu
+3. [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) by Hobson Lane, Cole Howard, and Hannes Hapke
 
 Tutorials
 ----
