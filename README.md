@@ -36,13 +36,14 @@ Books
 Tutorials
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-2. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
-3. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
-4. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
-5. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
-6. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
-7. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
-8. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
+1. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
+1. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
+1. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
+1. [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples) from t EMNLP 2016 using DyNet framework
+1. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
+1. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+1. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+1. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
 
 Talks
 ----
