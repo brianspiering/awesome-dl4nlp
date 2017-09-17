@@ -59,10 +59,10 @@ Talks
 
 Frameworks
 ----
-1. [Keras](https://keras.io/) - The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
+1. [Keras](https://keras.io/) - _The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
 1. [TensorFlow](https://www.tensorflow.org/) - A cross-platform, general purpose Machine Intelligence library with Python and C++ API.
 1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
-1. [DyNet](https://github.com/clab/dynet) - The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
+1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
 1. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
