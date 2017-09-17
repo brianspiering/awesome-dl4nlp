@@ -26,11 +26,15 @@ Courses
 	- [Coures homepage](http://phontron.com/class/nn4nlp2017/)
 	- [Course Lectures](https://www.youtube.com/user/neubig/videos)
 	- [Course code](https://github.com/neubig/nn4nlp2017-code/)
+1. Deep Learning for Natural Language Processing from University of Oxford and DeepMind
+	- [Coures homepage](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+	- [Coures Slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
+	- [Course Lectures](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 
 Books
 -----
 1. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg and Graeme Hirst
-2. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Dang Liu
+2. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Yang Liu
 3. [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) by Hobson Lane, Cole Howard, and Hannes Hapke
 
 Tutorials
@@ -55,13 +59,15 @@ Talks
 
 Frameworks
 ----
-1. [Keras](https://keras.io/) - _The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
+1. [Keras](https://keras.io/) - The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
 1. [TensorFlow](https://www.tensorflow.org/) - A cross-platform, general purpose Machine Intelligence library with Python and C++ API.
 1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
-1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
+1. [DyNet](https://github.com/clab/dynet) - The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
 1. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
 1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
+1. [PyTorch](http://pytorch.org/) - PyTorch is a deep learning framework that puts Python first. "Tensors and Dynamic neural networks in Python 
+with strong GPU acceleration."
 
 Papers
 ----
@@ -99,6 +105,7 @@ Blog Posts
 4. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
 5. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
 6. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) - Opinion piece on how Deep Learning fits into the broader picture of text processing.
+7. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 
 
 Researchers
@@ -108,9 +115,13 @@ Researchers
 3. [Richard Socher](http://www.socher.org/)
 4. [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
+
 Datasets
 ----
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) - Almost 1B words, already pre-processed text.
+1. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) - Fine grained sentiment labels for 215,154 phrases in the parse trees of 11,855 sentences.
+1. [Quora Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
+
 
 Miscellaneous
 ----
