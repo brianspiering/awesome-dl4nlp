@@ -98,7 +98,9 @@ Papers
 
 Blog Posts
 ----
+
 1. [the morning paper: The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/) - Overview of word vectors.
+1. [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 2. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 3. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 4. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
