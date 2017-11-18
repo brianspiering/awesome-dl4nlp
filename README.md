@@ -73,7 +73,7 @@ Papers
 1. [Deep or shallow, NLP is breaking out](http://dl.acm.org/citation.cfm?id=2874915) - General overview of how Deep Learning is impacting NLP.
 2. [Natural Language Processing from Research at Google](http://research.google.com/pubs/NaturalLanguageProcessing.html) - Not all Deep Learning (but mostly).
 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - The original word2vec paper.
-3. [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)
+3. [word2vec Parameter Learning Explained](https://arxiv.org/abs/1411.2738)
 4. [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 5. [Context Dependent Recurrent Neural Network Language Model](http://www.msr-waypoint.com/pubs/176926/rnn_ctxt.pdf)
 6. [Translation Modeling with Bidirectional Recurrent Neural Networks](https://www-i6.informatik.rwth-aachen.de/publications/download/936/SundermeyerMartinAlkhouliTamerWuebkerJoernNeyHermann--TranslationModelingwithBidirectionalRecurrentNeuralNetworks--2014.pdf)
