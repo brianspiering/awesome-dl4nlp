@@ -6,7 +6,6 @@ Table of Contents
 
 - __[Courses ](#courses)__  
 - __[Books](#books)__  
-- __[Tutorials / Demos](#tutorials)__  
 - __[Talks / Lectures](#talks)__  
 - __[Frameworks](#frameworks)__  
 - __[Papers](#papers)__  
@@ -41,7 +40,7 @@ Books
 	1. [From Word2Vec to GLoVe in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Word2Vec-ebook/dp/B01KRBOO4Y/)
 	1. [Recursive Neural Networks: Recursive Neural (Tensor) Networks in Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Recursive-ebook/dp/B01KS5AEXO)
 
-Tutorials
+Talks
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 1. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
@@ -55,14 +54,11 @@ Tutorials
 1. Using deep learning in natural language processing by Rob Romijnders from PyData Amsterdam 2017
 	- [video](https://www.youtube.com/watch?v=HVdPWoZ_swY)
 	- [slides](https://github.com/RobRomijnders/talks/blob/master/pydata_DL_NLP.pdf)
-
-Talks
-----
 1. Ali Ghodsi's lecture on word2vec [part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA) and [part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
-2. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
-3. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
-4. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) 
-5. [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
+1. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
+1. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
+1. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) 
+1. [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
 
 Frameworks
 ----
