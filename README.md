@@ -34,8 +34,12 @@ Courses
 Books
 -----
 1. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg and Graeme Hirst
-2. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Yang Liu
-3. [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) by Hobson Lane, Cole Howard, and Hannes Hapke
+1. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Yang Liu
+1. [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) by Hobson Lane, Cole Howard, and Hannes Hapke
+1. Deep Learning: Natural Language Processing in Python by The LazyProgrammer (Kindle only)
+	1. [Word2Vec and Word Embeddings in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Embeddings-ebook/dp/B01KQ0ZN0A)
+	1. [From Word2Vec to GLoVe in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Word2Vec-ebook/dp/B01KRBOO4Y/)
+	1. [Recursive Neural Networks: Recursive Neural (Tensor) Networks in Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Recursive-ebook/dp/B01KS5AEXO)
 
 Tutorials
 ----
