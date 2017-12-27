@@ -52,6 +52,9 @@ Tutorials
 1. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 1. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 1. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
+1. Using deep learning in natural language processing by Rob Romijnders from PyData Amsterdam 2017
+	- [video](https://www.youtube.com/watch?v=HVdPWoZ_swY)
+	- [slides](https://github.com/RobRomijnders/talks/blob/master/pydata_DL_NLP.pdf)
 
 Talks
 ----
