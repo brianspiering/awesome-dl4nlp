@@ -123,6 +123,9 @@ Datasets
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) - Almost 1B words, already pre-processed text.
 1. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) - Fine grained sentiment labels for 215,154 phrases in the parse trees of 11,855 sentences.
 1. [Quora Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
+1. [Chatbot data from Kaggle](https://www.kaggle.com/samdeeplearning/deepnlp)
+1. [A list of text datasets that are free/public domain in alphabetical order](https://github.com/niderhoff/nlp-datasets)
+1. [Another list of text datasets that are free/public domain in reverse chronological order](https://github.com/karthikncode/nlp-datasets)
 
 Demos
 ----
