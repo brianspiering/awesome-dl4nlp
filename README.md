@@ -13,7 +13,7 @@ Table of Contents
 - __[Blog Posts](#blog-posts)__
 - __[Researchers](#researchers)__  
 - __[Datasets](#datasets)__  
-- __[Miscellaneous](#miscellaneous)__  
+- __[Demos](#demos)__  
 - __[Contributing](#contributing)__  
 
 Courses 
@@ -99,7 +99,6 @@ Papers
     - [Paper](http://arxiv.org/abs/1506.06726)
     - [Code](https://github.com/ryankiros/skip-thoughts)
 
-
 Blog Posts
 ----
 
@@ -113,7 +112,6 @@ Blog Posts
 6. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) - Opinion piece on how Deep Learning fits into the broader picture of text processing.
 7. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 
-
 Researchers
 ----
 1. [Christopher Manning](http://nlp.stanford.edu/manning/)
@@ -121,22 +119,21 @@ Researchers
 3. [Richard Socher](http://www.socher.org/)
 4. [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
-
 Datasets
 ----
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) - Almost 1B words, already pre-processed text.
 1. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) - Fine grained sentiment labels for 215,154 phrases in the parse trees of 11,855 sentences.
 1. [Quora Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
 
-
-Miscellaneous
+Demos
 ----
 1. [word2vec analogy demo](http://deeplearner.fz-qqq.net/)
+1. [TensorFlow Embedding Projector of word vectors](http://projector.tensorflow.org/)
 
 -----
 Contributing
 ----
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a pull request!
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
 
 -----
 License
