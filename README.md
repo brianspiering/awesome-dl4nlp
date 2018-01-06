@@ -59,6 +59,9 @@ Talks
 1. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
 1. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) 
 1. [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
+1. Tackling the Limits of Deep Learning for NLP by Richard Socher
+	- [video](https://www.youtube.com/watch?v=JYwNmSe4HqE)
+	- [slides](https://berkeley-deep-learning.github.io/cs294-131-s17/slides/socher-talk.pdf)
 
 Frameworks
 ----
