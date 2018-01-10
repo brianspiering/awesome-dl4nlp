@@ -125,10 +125,16 @@ Datasets
 ----
 1. [Dataset from "One Billion Word Language Modeling Benchmark"](http://www.statmt.org/lm-benchmark/1-billion-word-language-modeling-benchmark-r13output.tar.gz) - Almost 1B words, already pre-processed text.
 1. [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/treebank.html) - Fine grained sentiment labels for 215,154 phrases in the parse trees of 11,855 sentences.
-1. [Quora Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
 1. [Chatbot data from Kaggle](https://www.kaggle.com/samdeeplearning/deepnlp)
 1. [A list of text datasets that are free/public domain in alphabetical order](https://github.com/niderhoff/nlp-datasets)
 1. [Another list of text datasets that are free/public domain in reverse chronological order](https://github.com/karthikncode/nlp-datasets)
+1. Question Answering datasets
+	1. [Quora's Question Pairs Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) - Identify question pairs that have the same intent.
+	1. [CMU's Wikipedia Factoid Question Answers](https://www.cs.cmu.edu/~ark/QA-data/)
+	1. [DeepMind's Algebra Question Answering](https://github.com/deepmind/AQuA)
+	1. [DeepMind's from CNN & DailyMail Question Answering](https://github.com/deepmind/rc-data)
+	1. [Microsoft's WikiQA Open Domain Question Answering](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/?ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-gOAzSlme13TQG8GmdVZ8pg&tduid=(750a9458bf9a429cfc1c3faf4f746067)(256380)(2459594)(je6NUbpObpQ-gOAzSlme13TQG8GmdVZ8pg)
+	1. [Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) - covering reading comprehension
 
 Demos
 ----
