@@ -133,7 +133,7 @@ Datasets
 	1. [CMU's Wikipedia Factoid Question Answers](https://www.cs.cmu.edu/~ark/QA-data/)
 	1. [DeepMind's Algebra Question Answering](https://github.com/deepmind/AQuA)
 	1. [DeepMind's from CNN & DailyMail Question Answering](https://github.com/deepmind/rc-data)
-	1. [Microsoft's WikiQA Open Domain Question Answering](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/?ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-gOAzSlme13TQG8GmdVZ8pg&tduid=(750a9458bf9a429cfc1c3faf4f746067)(256380)(2459594)(je6NUbpObpQ-gOAzSlme13TQG8GmdVZ8pg)
+	1. [Microsoft's WikiQA Open Domain Question Answering](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)
 	1. [Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/) - covering reading comprehension
 
 Demos
