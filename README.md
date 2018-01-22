@@ -4,18 +4,18 @@ Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://
 Table of Contents
 ----
 
-- __[Courses ](#courses)__  
-- __[Books](#books)__  
-- __[Talks / Lectures](#talks)__  
-- __[Frameworks](#frameworks)__  
-- __[Papers](#papers)__  
+- __[Courses ](#courses)__
+- __[Books](#books)__
+- __[Talks / Lectures](#talks)__
+- __[Frameworks](#frameworks)__
+- __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
-- __[Researchers](#researchers)__  
-- __[Datasets](#datasets)__  
-- __[Demos](#demos)__  
-- __[Contributing](#contributing)__  
+- __[Researchers](#researchers)__
+- __[Datasets](#datasets)__
+- __[Demos](#demos)__
+- __[Contributing](#contributing)__
 
-Courses 
+Courses
 ----
 1. CS224d: Deep Learning for Natural Language Processing from Stanford
 	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
@@ -43,21 +43,21 @@ Books
 Talks
 ----
 1. [Deep Learning for Natural Language Processing (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
-1. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726) 
-1. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/) 
+1. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)
+1. [Deep Learning for Natural Language Processing: Theory and Practice (Tutorial)](https://www.microsoft.com/en-us/research/publication/deep-learning-for-natural-language-processing-theory-and-practice-tutorial/)
 1. [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/mandelbrot)
 1. [Practical Neural Networks for NLP](https://github.com/clab/dynet_tutorial_examples) from EMNLP 2016 using DyNet framework
 1. [Recurrent Neural Networks with Word Embeddings](http://deeplearning.net/tutorial/rnnslu.html)
 1. [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 1. [TensorFlow demo using the Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
-1. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)  
+1. [LSTMVis: Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/client/index.html)
 1. Using deep learning in natural language processing by Rob Romijnders from PyData Amsterdam 2017
 	- [video](https://www.youtube.com/watch?v=HVdPWoZ_swY)
 	- [slides](https://github.com/RobRomijnders/talks/blob/master/pydata_DL_NLP.pdf)
 1. Ali Ghodsi's lecture on word2vec [part 1](https://www.youtube.com/watch?v=TsEGsdVJjuA) and [part 2](https://www.youtube.com/watch?v=nuirUEmbaJU)
 1. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 1. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
-1. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/) 
+1. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/)
 1. [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/) Includes state-of-art language modeling.
 1. Tackling the Limits of Deep Learning for NLP by Richard Socher
 	- [video](https://www.youtube.com/watch?v=JYwNmSe4HqE)
@@ -106,13 +106,14 @@ Blog Posts
 
 1. [the morning paper: The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/) - Overview of word vectors.
 1. [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
-2. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-3. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+1. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 1. [Neural Language Modeling From Scratch](http://ofir.io/Neural-Language-Modeling-From-Scratch/?a=1)
-4. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
-5. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
-6. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) - Opinion piece on how Deep Learning fits into the broader picture of text processing.
-7. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
+1. [Machine Learning for Emoji Trends](http://instagram-engineering.tumblr.com/post/117889701472/emojineering-part-1-machine-learning-for-emoji)
+1. [Teaching Robots to Feel: Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html)
+1. [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239) - Opinion piece on how Deep Learning fits into the broader picture of text processing.
+1. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
+1. [7 types of Artificial Neural Networks for Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 
 Researchers
 ----
