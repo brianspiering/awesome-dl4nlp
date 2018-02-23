@@ -74,6 +74,7 @@ Frameworks
 1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
 1. [PyTorch](http://pytorch.org/) - PyTorch is a deep learning framework that puts Python first. "Tensors and Dynamic neural networks in Python with strong GPU acceleration."
+1. [fasttext](https://github.com/facebookresearch/fastText) Facebook's library for fast text representation and classification.
 
 Papers
 ----
