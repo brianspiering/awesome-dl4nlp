@@ -137,6 +137,7 @@ Word Embeddings and friends
 1. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - The original word2vec paper.
 1. [word2vec Parameter Learning Explained](https://arxiv.org/abs/1411.2738) An elucidating explanation of word2vec training
 1. [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
+1. [Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)
 1. [GloVe: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf) - A "count-based"/co-occurrence model to learn word embeddings.
 1.  Doc2Vec
 	- [A gentle introduction to Doc2Vec](https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
