@@ -21,13 +21,14 @@ Courses
 	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
 	- [Course lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Video playlist.
 	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
+	- [Course code](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n.
 1. Neural Networks for NLP from Carnegie Mellon University
-	- [Coures homepage](http://phontron.com/class/nn4nlp2017/)
+	- [Course homepage](http://phontron.com/class/nn4nlp2017/)
 	- [Course lectures](https://www.youtube.com/user/neubig/videos)
 	- [Course code](https://github.com/neubig/nn4nlp2017-code/)
 1. Deep Learning for Natural Language Processing from University of Oxford and DeepMind
-	- [Coures homepage](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
-	- [Coures slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
+	- [Course homepage](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+	- [Course slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
 	- [Course lectures](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 
 Books
@@ -40,6 +41,12 @@ Books
 	1. [Word2Vec and Word Embeddings in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Embeddings-ebook/dp/B01KQ0ZN0A)
 	1. [From Word2Vec to GLoVe in Python and Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Word2Vec-ebook/dp/B01KRBOO4Y/)
 	1. [Recursive Neural Networks: Recursive Neural (Tensor) Networks in Theano](https://www.amazon.com/Deep-Learning-Language-Processing-Recursive-ebook/dp/B01KS5AEXO)
+1. [Applied Natural Language Processing with Python](https://www.amazon.ca/Applied-Natural-Language-Processing-Python/dp/1484237323) by  Taweh Beysolow II
+1. [Deep Learning Cookbook](https://www.amazon.ca/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X) by Douwe Osinga
+1. [Deep Learning for Natural Language Processing: Creating Neural Networks with Python](https://www.amazon.ca/Deep-Learning-Natural-Language-Processing/dp/148423684X) by Palash Goyal, Sumit Pandey, Karan Jain
+1. [Machine Learning for Text](https://www.amazon.ca/Machine-Learning-Text-Charu-Aggarwal/dp/3319735306) by Charu C. Aggarwal
+1. [Natural Language Processing with TensorFlow](https://www.amazon.ca/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR) by Thushan Ganegedara
+
 
 Talks
 ----
