@@ -46,7 +46,8 @@ Books
 1. [Deep Learning for Natural Language Processing: Creating Neural Networks with Python](https://www.amazon.ca/Deep-Learning-Natural-Language-Processing/dp/148423684X) by Palash Goyal, Sumit Pandey, Karan Jain
 1. [Machine Learning for Text](https://www.amazon.ca/Machine-Learning-Text-Charu-Aggarwal/dp/3319735306) by Charu C. Aggarwal
 1. [Natural Language Processing with TensorFlow](https://www.amazon.ca/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR) by Thushan Ganegedara
-
+1. [fastText Quick Start Guide: Get started with Facebook's library for text representation and classification](https://www.amazon.ca/fastText-Quick-Start-Guide-representation/dp/1789130999)
+1. [Hands-On Natural Language Processing with Python](https://www.amazon.ca/Hands-Natural-Language-Processing-Python/dp/178913949X)
 
 Talks
 ----
@@ -108,6 +109,7 @@ Papers
 Blog Posts
 ----
 
+1. [A Review of the Recent History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 1. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 1. [Neural Language Modeling From Scratch](http://ofir.io/Neural-Language-Modeling-From-Scratch/?a=1)
