@@ -4,8 +4,9 @@ Awesome Deep Learning for Natural Language Processing (NLP) [![Awesome](https://
 Table of Contents
 ----
 
-- __[Courses ](#courses)__
+- __[Courses](#courses)__
 - __[Books](#books)__
+- __[Tutorials](#tutorials)__
 - __[Talks / Lectures](#talks)__
 - __[Frameworks](#frameworks)__
 - __[Papers](#papers)__
@@ -48,6 +49,12 @@ Books
 1. [Natural Language Processing with TensorFlow](https://www.amazon.ca/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR) by Thushan Ganegedara
 1. [fastText Quick Start Guide: Get started with Facebook's library for text representation and classification](https://www.amazon.ca/fastText-Quick-Start-Guide-representation/dp/1789130999)
 1. [Hands-On Natural Language Processing with Python](https://www.amazon.ca/Hands-Natural-Language-Processing-Python/dp/178913949X)
+
+Tutorials
+-----
+
+1. [Text classification guide from Google](https://developers.google.com/machine-learning/guides/text-classification/)
+1. [Deep Learning for NLP with PyTorch](deep learning for nlp with pytorch
 
 Talks
 ----
