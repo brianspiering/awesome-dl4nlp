@@ -54,7 +54,7 @@ Tutorials
 -----
 
 1. [Text classification guide from Google](https://developers.google.com/machine-learning/guides/text-classification/)
-1. [Deep Learning for NLP with PyTorch](deep learning for nlp with pytorch
+1. [Deep Learning for NLP with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 Talks
 ----
@@ -70,7 +70,6 @@ Talks
 1. Using deep learning in natural language processing by Rob Romijnders from PyData Amsterdam 2017
 	- [video](https://www.youtube.com/watch?v=HVdPWoZ_swY)
 	- [slides](https://github.com/RobRomijnders/talks/blob/master/pydata_DL_NLP.pdf)
-
 1. [Richard Socher's talk on sentiment analysis, question answering, and sentence-image embeddings](https://www.youtube.com/watch?v=tdLmf8t4oqM)
 1. [Deep Learning, an interactive introduction for NLP-ers](http://www.slideshare.net/roelofp/220115dlmeetup)
 1. [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/)
@@ -82,15 +81,19 @@ Talks
 Frameworks
 ----
 1. [Overview of DL frameworks for NLP](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
-1. [Keras](https://keras.io/) - _The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
-1. [TensorFlow](https://www.tensorflow.org/) - A cross-platform, general purpose Machine Intelligence library with Python and C++ API.
-1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
-1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
-1. [Google’s original word2vec implementation](https://code.google.com/archive/p/word2vec/)
-1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
-1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
-1. [PyTorch](http://pytorch.org/) - PyTorch is a deep learning framework that puts Python first. "Tensors and Dynamic neural networks in Python with strong GPU acceleration."
-1. [fasttext](https://github.com/facebookresearch/fastText) Facebook's library for fast text representation and classification.
+1. General Frameworks
+	1. [Keras](https://keras.io/) - _The Python Deep Learning library_ Emphasis on user friendliness, modularity, easy extensibility, and Pythonic.
+	1. [TensorFlow](https://www.tensorflow.org/) - A cross-platform, general purpose Machine Intelligence library with Python and C++ API.
+	1. [PyTorch](http://pytorch.org/) - PyTorch is a deep learning framework that puts Python first. "Tensors and Dynamic neural networks in Python with strong GPU acceleration."
+
+1. Specific Frameworks
+	1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
+	1. [fasttext](https://github.com/facebookresearch/fastText) Facebook's library for fast text representation and classification.
+	1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library, built on PyTorch.
+	1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices. Built on top of PyTorch.  
+	1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
+	1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
+	1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
 
 Papers
 ----
@@ -111,7 +114,6 @@ Papers
 1. [Smart Reply: Automated Response Suggestion for Email](https://arxiv.org/abs/1606.04870)
 1. [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) - State-of-the-art performance in NER with bidirectional LSTM with a sequential conditional random layer and transition-based parsing with stack LSTMs.
 1. [Grammar as a Foreign Language](https://arxiv.org/abs/1412.7449) - State-of-the-art syntactic constituency parsing using generic sequence-to-sequence approach.
-
 
 Blog Posts
 ----
