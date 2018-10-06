@@ -11,7 +11,6 @@ Table of Contents
 - __[Frameworks](#frameworks)__
 - __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
-- __[Researchers](#researchers)__
 - __[Datasets](#datasets)__
 - __[Word Embeddings / Word Vectors](#word-embeddings)__
 - __[Contributing](#contributing)__
@@ -128,13 +127,6 @@ Blog Posts
 1. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 1. [7 types of Artificial Neural Networks for Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 1. [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-
-Researchers
-----
-1. [Christopher Manning](http://nlp.stanford.edu/manning/)
-2. [Ali Ghodsi](https://uwaterloo.ca/data-science/)
-3. [Richard Socher](http://www.socher.org/)
-4. [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
 Datasets
 ----
