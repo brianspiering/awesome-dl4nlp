@@ -31,6 +31,8 @@ Courses
 	- [Course homepage](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 	- [Course slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
 	- [Course lectures](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+1. CS287: Machine Learning for Natural Language from Harvard University
+	- [Coures homepage](https://harvard-ml-courses.github.io/cs287-web/)
 
 Books
 -----
