@@ -8,7 +8,7 @@ Table of Contents
 - __[Books](#books)__
 - __[Tutorials](#tutorials)__
 - __[Talks / Lectures](#talks)__
-- __[Frameworks](#frameworks)__
+- __[Frameworks / Models](#frameworks)__
 - __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
 - __[Datasets](#datasets)__
@@ -97,6 +97,7 @@ Frameworks
 		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library.
 		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit.
 		1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices. 
+		1. [Transformer model](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Annotated notebook implementation
 	1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 	1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
 	1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
