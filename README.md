@@ -86,10 +86,17 @@ Frameworks
 	1. [PyTorch](http://pytorch.org/) - PyTorch is a deep learning framework that puts Python first. "Tensors and Dynamic neural networks in Python with strong GPU acceleration."
 
 1. Specific Frameworks
+	1. [SpaCy](https://spacy.io/) - A Python package designed for speed, getting things dones, and interoperates with other Deep Learning frameworks
 	1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
 	1. [fasttext](https://github.com/facebookresearch/fastText) Facebook's library for fast text representation and classification.
-	1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library, built on PyTorch.
-	1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices. Built on top of PyTorch.  
+	1. Built on TensorFlow
+		1. [SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - A toolkit for natural language understanding (NLU)
+		1. [textsum](https://github.com/tensorflow/models/tree/master/research/textsum) - A Sequence-to-Sequence with Attention Model for Text Summarization.
+		1. A [Skip-Thought Vectors](https://github.com/tensorflow/models/tree/master/research/skip_thoughts) implementation in TensorFlow
+	1. Built on PyTorch
+		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library.
+		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit.
+		1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices. 
 	1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 	1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
 	1. [deepnl](https://github.com/attardi/deepnl) - A Python library for NLP based on Deep Learning neural network architecture.
