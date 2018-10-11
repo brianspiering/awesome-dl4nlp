@@ -90,9 +90,10 @@ Frameworks
 	1. [Genism: Topic modeling for humans](https://pypi.python.org/pypi/gensim) - A Python package that includes word2vec and doc2vec implementations.
 	1. [fasttext](https://github.com/facebookresearch/fastText) Facebook's library for fast text representation and classification.
 	1. Built on TensorFlow
-		1. [SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - A toolkit for natural language understanding (NLU)
+		1. [SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - A toolkit for natural language understanding (NLU).
 		1. [textsum](https://github.com/tensorflow/models/tree/master/research/textsum) - A Sequence-to-Sequence with Attention Model for Text Summarization.
-		1. A [Skip-Thought Vectors](https://github.com/tensorflow/models/tree/master/research/skip_thoughts) implementation in TensorFlow
+		1. [Skip-Thought Vectors](https://github.com/tensorflow/models/tree/master/research/skip_thoughts) implementation in TensorFlow.
+		1. [ActiveQA: Active Question Answering](https://github.com/google/active-qa) - Using reinforcement learning to train artificial agents for question answering
 	1. Built on PyTorch
 		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library.
 		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit.
