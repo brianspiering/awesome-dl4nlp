@@ -126,6 +126,7 @@ Papers
 Blog Posts
 ----
 
+1. [Natural Language Processing (NLP) progress](https://nlpprogress.com/) Tracking the most common NLP tasks, including the datasets and the current state-of-the-art 
 1. [A Review of the Recent History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 1. [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 1. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
