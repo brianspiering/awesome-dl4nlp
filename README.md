@@ -95,9 +95,10 @@ Frameworks
 		1. [Skip-Thought Vectors](https://github.com/tensorflow/models/tree/master/research/skip_thoughts) implementation in TensorFlow.
 		1. [ActiveQA: Active Question Answering](https://github.com/google/active-qa) - Using reinforcement learning to train artificial agents for question answering
 	1. Built on PyTorch
-		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library.
-		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit.
-		1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices. 
+		1. [PyText](https://github.com/facebookresearch/pytext) - A deep-learning based NLP modeling framework by Facebook
+		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library
+		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit
+		1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices
 		1. [Transformer model](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Annotated notebook implementation
 	1. [Deeplearning4j’s NLP framework](http://deeplearning4j.org/nlp) - Java implementation.
 	1. [DyNet](https://github.com/clab/dynet) - _The Dynamic Neural Network Toolkit_ "work well with networks that have dynamic structures that change for every training instance".
