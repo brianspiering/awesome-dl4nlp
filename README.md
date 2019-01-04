@@ -97,6 +97,7 @@ Frameworks
 	1. Built on PyTorch
 		1. [PyText](https://github.com/facebookresearch/pytext) - A deep-learning based NLP modeling framework by Facebook
 		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library
+		1. [Flair](https://github.com/zalandoresearch/flair) - A very simple framework for state-of-the-art NLP
 		1. [fairseq](https://github.com/pytorch/fairseq) - A Sequence-to-Sequence Toolkit
 		1. [fastai](http://docs.fast.ai/text.html) - Simplifies training fast and accurate neural nets using modern best practices
 		1. [Transformer model](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Annotated notebook implementation
