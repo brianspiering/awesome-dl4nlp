@@ -94,6 +94,7 @@ Frameworks
 		1. [textsum](https://github.com/tensorflow/models/tree/master/research/textsum) - A Sequence-to-Sequence with Attention Model for Text Summarization.
 		1. [Skip-Thought Vectors](https://github.com/tensorflow/models/tree/master/research/skip_thoughts) implementation in TensorFlow.
 		1. [ActiveQA: Active Question Answering](https://github.com/google/active-qa) - Using reinforcement learning to train artificial agents for question answering
+		1. [BERT](https://github.com/google-research/bert) - Bidirectional Encoder Representations from Transformers for pre-trained models
 	1. Built on PyTorch
 		1. [PyText](https://github.com/facebookresearch/pytext) - A deep-learning based NLP modeling framework by Facebook
 		1. [AllenNLP](https://allennlp.org/) - An open-source NLP research library
