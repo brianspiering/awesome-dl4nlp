@@ -17,10 +17,10 @@ Table of Contents
 
 Courses
 ----
-1. CS224d: Deep Learning for Natural Language Processing from Stanford
-	- [Course homepage](http://web.stanford.edu/class/cs224n/) A complete survey of the field with videos, lecture slides, and sample student projects.
-	- [Course lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) Video playlist.
-	- [Course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
+1. NLP with Deep Learning / CS224N from Stanford (Winter 2019)
+	- [Course homepage](http://web.stanford.edu/class/cs224n/index.html) A complete survey of the field with videos, lecture slides, and sample student projects.
+	- [Course lectures](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) Video playlist.
+	- [Previous course notes](https://github.com/stanfordnlp/cs224n-winter17-notes) Probably the best "book" on DL for NLP.
 	- [Course code](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n.
 1. Neural Networks for NLP from Carnegie Mellon University
 	- [Course homepage](http://phontron.com/class/nn4nlp2017/)
