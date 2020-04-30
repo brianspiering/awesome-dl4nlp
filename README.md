@@ -140,6 +140,7 @@ Blog Posts
 1. [Deep Learning NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 1. [7 types of Artificial Neural Networks for Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 1. [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+1. [Fast NLP Model Pre-Training with VAEs](https://www.lighttag.io/blog/fast-nlp-pretraining-with-vampire/)
 
 Datasets
 ----
