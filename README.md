@@ -48,6 +48,7 @@ Books
 1. [Natural Language Processing with TensorFlow](https://www.amazon.ca/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR) by Thushan Ganegedara
 1. [fastText Quick Start Guide: Get started with Facebook's library for text representation and classification](https://www.amazon.ca/fastText-Quick-Start-Guide-representation/dp/1789130999)
 1. [Hands-On Natural Language Processing with Python](https://www.amazon.ca/Hands-Natural-Language-Processing-Python/dp/178913949X)
+1. [Natural Language Processing in Action, Seond Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) by Hobson Lane and Maria Dyshel
 
 Tutorials
 -----
