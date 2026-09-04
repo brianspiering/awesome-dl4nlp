@@ -145,6 +145,7 @@ Blog Posts
 1. [7 types of Artificial Neural Networks for Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2)
 1. [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 2. [7 Applications of Deep Learning for Natural Language Processing](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)
+1. [NLP Foundations](https://fondralabs.com/nlp-foundations.html) - 12-lesson blog course covering core NLP concepts, from tokenization and POS tagging through word embeddings and NER, with Python code examples.
 
 Datasets
 ----
